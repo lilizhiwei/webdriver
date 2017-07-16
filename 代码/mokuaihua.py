@@ -14,7 +14,7 @@ def get_ele_times(driver,times,func):
 def openBrower():
 	x = webdriver.Firefox()
 	return x
-
+	
 def openUrl(handle,url):
 	handle.get(url)
 	handle.maximize_window()

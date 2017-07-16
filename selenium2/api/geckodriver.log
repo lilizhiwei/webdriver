@@ -1,0 +1,594 @@
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497790263177	Marionette	INFO	Listening on port 1266
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 2544] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497790283636	Marionette	INFO	Listening on port 1314
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497790624833	Marionette	INFO	Listening on port 1458
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497790735669	Marionette	INFO	Listening on port 1565
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: http://start.firefoxchina.cn/js/tabLib-min.js?v=20150120, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497790939156	Marionette	INFO	Listening on port 1844
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 4852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 4312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497791182373	Marionette	INFO	Listening on port 2189
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497791211003	Marionette	INFO	Listening on port 2268
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 5752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497791374764	Marionette	INFO	Listening on port 2461
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=user&json=1&p=3&sid=1445_21089_20929&req=2&csor=4&pwd=use&cb=jQuery11020048700549701510054_1497791381449&_=1497791381454, line 1: TypeError: jQuery11020048700549701510054_1497791381449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=usern&json=1&p=3&sid=1445_21089_20929&req=2&csor=5&pwd=user&cb=jQuery11020048700549701510054_1497791381449&_=1497791381455, line 1: TypeError: jQuery11020048700549701510054_1497791381449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=usernae&json=1&p=3&sid=1445_21089_20929&req=2&csor=7&pwd=userna&cb=jQuery11020048700549701510054_1497791381449&_=1497791381457, line 1: TypeError: jQuery11020048700549701510054_1497791381449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=use&json=1&p=3&sid=1445_21089_20929&req=2&csor=3&pwd=us&cb=jQuery11020048700549701510054_1497791381449&_=1497791381453, line 1: TypeError: jQuery11020048700549701510054_1497791381449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=userna&json=1&p=3&sid=1445_21089_20929&req=2&csor=6&pwd=usern&cb=jQuery11020048700549701510054_1497791381449&_=1497791381456, line 1: TypeError: jQuery11020048700549701510054_1497791381449 is not a function
+1497791514466	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1497791514470	addons.productaddons	WARN	Failed downloading via XHR, stat[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=usernae&json=1&p=3&sid=1445_21119_20928&req=2&csor=7&pwd=userna&cb=jQuery1102006991612019802651_1497791519360&_=1497791519368, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=user&json=1&p=3&sid=1445_21119_20928&req=2&csor=4&pwd=use&cb=jQuery1102006991612019802651_1497791519360&_=1497791519365, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=us&json=1&p=3&sid=1445_21119_20928&req=2&csor=2&pwd=u&cb=jQuery1102006991612019802651_1497791519360&_=1497791519363, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=usern&json=1&p=3&sid=1445_21119_20928&req=2&csor=5&pwd=user&cb=jQuery1102006991612019802651_1497791519360&_=1497791519366, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=userna&json=1&p=3&sid=1445_21119_20928&req=2&csor=6&pwd=usern&cb=jQuery1102006991612019802651_1497791519360&_=1497791519367, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=usernaem&json=1&p=3&sid=1445_21119_20928&req=2&csor=8&pwd=usernae&cb=jQuery1102006991612019802651_1497791519360&_=1497791519369, line 1: TypeError: jQuery1102006991612019802651_1497791519360 is not a function
+[NPAPI 6964] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 6628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 8144] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1497791578722	Marionette	INFO	Listening on port 2707
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 3836] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 7936] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498392904459	Marionette	INFO	Listening on port 9432
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 6412] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPA[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5124] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 5592] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498392947309	Marionette	INFO	Listening on port 9582
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 6620] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 6944] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498393206550	Marionette	INFO	Listening on port 9681
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498393235313	Marionette	INFO	Listening on port 9738
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+dn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 5860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+r.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498964934381	Marionette	INFO	Listening on port 7803
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/jquery/jquery2x.min.js line 2 > eval, line 92: TypeError: g.cache.get(...) is null
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/jquery/jquery2x.min.js line 2 > eval, line 92: TypeError: g.cache.get(...) is null
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[Child 6972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6972] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/jquery/jquery2x.min.js line 2 > eval, line 92: TypeError: g.cache.get(...) is null
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498965416051	Marionette	INFO	Listening on port 8027
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 3568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498965506796	Marionette	INFO	Listening on port 8077
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498965673540	Marionette	INFO	Listening on port 8171
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/jquery/jquery2x.min.js line 2 > eval, line 364: TypeError: me.selectpicker is not a function
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498965851524	Marionette	INFO	Listening on port 8259
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/bootstrap/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://cdn.yyddd.com/assets/ge/plugs/layer/layer.js, line 2: TypeError: i is not a function
+JavaScript error: https://cdn.yyddd.com/assets/pc/plugs/cookie/cookies.js, line 65: ReferenceError: jQuery is not defined
+JavaScript error: https://www.yyddd.com/pc/login.html, line 190: ReferenceError: $ is not defined
+JavaScript error: https://www.yyddd.com/pc/login.html, line 1: ReferenceError: login is not defined
+1498965920494	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498965957790	Marionette	INFO	Listening on port 8349
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+1498966033605	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498995127541	Marionette	INFO	Listening on port 9343
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 1445: Error: xlsx load error
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498995990934	Marionette	INFO	Listening on port 9578
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[Child 8072] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498996104384	Marionette	INFO	Listening on port 9650
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[Child 1540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498996223885	Marionette	INFO	Listening on port 9801
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[Child 1368] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498996820436	Marionette	INFO	Listening on port 10026
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 1445: Error: table load error
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 1590: TypeError: window.location is null
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498996904227	Marionette	INFO	Listening on port 10104
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498996973337	Marionette	INFO	Listening on port 10150
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[Child 7224] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7224] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498997070857	Marionette	INFO	Listening on port 10224
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+1498997145547	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498997145551	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1498997145557	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498997165971	Marionette	INFO	Listening on port 10313
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 1445: Error: table load error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498997239240	Marionette	INFO	Listening on port 10422
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+JavaScript error: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 1590: TypeError: window.location is null
+1498997307839	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498997307841	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498997307847	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498997486990	Marionette	INFO	Listening on port 1097
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome[Child 292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ERROR:geckodriver::marionette: Failed to kill browser process
+esource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1690:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1690:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browserForTab is undefined
+hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1690:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+[Child 3064] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1498997543067	Marionette	INFO	Listening on port 1382
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 459: unreachable code after return statement
+JavaScript warning: https://cdn.yyddd.com/assets/ge/core/ModuleEngine/core.js, line 466: unreachable code after return statement
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499434945912	Marionette	INFO	Listening on port 1867
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 4312] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 6256] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499694452253	Marionette	INFO	Listening on port 2616
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499694506967	Marionette	INFO	Listening on port 2675
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 5160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499695702429	Marionette	INFO	Listening on port 3025
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007D,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 7332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 322: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 649: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 115: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x20007,name=PAPZ::Msg_UpdateZoomConstraints) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+dAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x20007,name=PAPZ::Msg_UpdateZoomConstraints) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499777301617	Marionette	INFO	Listening on port 1115
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 5548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499777473821	Marionette	INFO	Listening on port 1321
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 3616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499779833830	Marionette	INFO	Listening on port 1698
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499779917439	Marionette	INFO	Listening on port 1765
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499780054227	Marionette	INFO	Listening on port 1936
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499780152185	Marionette	INFO	Listening on port 1986
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/cJavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499780423427	Marionette	INFO	Listening on port 2140
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499780591323	Marionette	INFO	Listening on port 2191
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 4056] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1499780734517	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499780969841	Marionette	INFO	Listening on port 2377
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1499781042122	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+UnexpectedAMDGPU
+1499780990877	Marionette	INFO	Listening on port 2422
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1499781060828	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+st declaration
+1499781098484	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1499781213880	Marionette	INFO	Listening on port 2524
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1499781284074	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+expectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1499781352448	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8272] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+st declaration
+1499781423378	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
