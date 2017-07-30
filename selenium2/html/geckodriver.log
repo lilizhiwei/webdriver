@@ -1,0 +1,12 @@
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1501163291896	Marionette	INFO	Listening on port 2194
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501163374569	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1501163374573	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+nSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 483: TypeError: this.tablesData[table] is undefined
