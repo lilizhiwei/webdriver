@@ -3,6 +3,7 @@ import unittest
 import time
 
 class MyTest(unittest.TestCase):
+	'''有道搜索测试'''
 	
 	def setUp(self):
 		self.driver = webdriver.Firefox()
