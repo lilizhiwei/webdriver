@@ -1,0 +1,48 @@
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502004387667	Marionette	INFO	Listening on port 2850
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502004433621	Marionette	INFO	Listening on port 2929
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502004493654	Marionette	INFO	Listening on port 2970
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 1716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502004695769	Marionette	INFO	Listening on port 3002
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502004962082	Marionette	INFO	Listening on port 3137
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 4684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502005061253	Marionette	INFO	Listening on port 3172
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502005120672	Marionette	INFO	Listening on port 3211
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 3604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
