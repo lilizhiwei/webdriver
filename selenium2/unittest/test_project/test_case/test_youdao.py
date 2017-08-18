@@ -9,16 +9,17 @@ class MyTest(unittest.TestCase):
 		self.driver = webdriver.Firefox()
 		self.driver.maximize_window()
 		self.driver.implicitly_wait(10)
-		self.base_url = 'http://www.youdao.com'
+		self.base_url = 'https://www.baidu.com'
 
 	def test_baidu(self):
 		driver = self.driver
 		driver.get(self.base_url + '/')
-		driver.find_element_by_id('query').clear()
-		driver.find_element_by_id('query').send_keys('webdriver')
-		driver.find_element_by_id('qb').click()
 		time.sleep(2)
-		self.assertEqual(title,"webdriver_有道搜索")
+		driver.find_element_by_id('kw').send_keys('webdriver')
+		driver.find_element_by_id('su').click()
+		time.sleep(2)
+		self.assertEqual(driver.title,"webdriver_百度搜索")
+		time.sleep(2)
 
 	def tearDown(self):
 		self.driver.close()

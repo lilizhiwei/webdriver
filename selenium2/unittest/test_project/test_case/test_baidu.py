@@ -9,16 +9,17 @@ class MyTest(unittest.TestCase):
 		self.driver = webdriver.Firefox()
 		self.driver.maximize_window()
 		self.driver.implicitly_wait(10)
-		self.base_url = 'http://www.baidu.com'
+		self.base_url = 'https://www.baidu.com'
 
 	def test_baidu(self):
 		driver = self.driver
 		driver.get(self.base_url + '/')
-		driver.find_element_by_id('kw').clear()
+		time.sleep(2)
 		driver.find_element_by_id('kw').send_keys('unittest')
 		driver.find_element_by_id('su').click()
 		time.sleep(2)
-		self.assertEqual(title,"unittest_百度搜索")
+		self.assertEqual(driver.title,"unittest_百度搜索")
+		time.sleep(2)
 
 	def tearDown(self):
 		self.driver.quit()

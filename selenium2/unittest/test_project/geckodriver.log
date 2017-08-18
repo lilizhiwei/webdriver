@@ -142,3 +142,136 @@ a.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: mi
 [Child 1488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 1488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/c[Child 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1502976377457	Marionette	INFO	Listening on port 1176
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 4216] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+la.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 6588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503066568822	Marionette	INFO	Listening on port 4648
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5880] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503066587961	Marionette	INFO	Listening on port 4706
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7352] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503066946046	Marionette	INFO	Listening on port 5070
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503066966409	Marionette	INFO	Listening on port 5119
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1503067088469	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+st declaration
+[Child 6964] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503067055064	Marionette	INFO	Listening on port 5221
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1503067132229	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503067132233	addons.productaddons	WARN	Failed downloading via XHR, stat[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=3&pwd=un&cb=jQuery1102049957635232829434_1503067133940&_=1503067133944, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=4&pwd=uni&cb=jQuery1102049957635232829434_1503067133940&_=1503067133945, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=5&pwd=unit&cb=jQuery1102049957635232829434_1503067133940&_=1503067133946, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=8&pwd=unittes&cb=jQuery1102049957635232829434_1503067133940&_=1503067133949, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=6&pwd=unitt&cb=jQuery1102049957635232829434_1503067133940&_=1503067133947, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=24137_1425_21114_18560_17001_20929&req=2&csor=7&pwd=unitte&cb=jQuery1102049957635232829434_1503067133940&_=1503067133948, line 1: TypeError: jQuery1102049957635232829434_1503067133940 is not a function
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Child 7384] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 6404] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503067146721	Marionette	INFO	Listening on port 5379
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=we&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=2&pwd=w&cb=jQuery110209098837380909712_1503067152729&_=1503067152732, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webd&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=4&pwd=web&cb=jQuery110209098837380909712_1503067152729&_=1503067152734, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdrive&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=8&pwd=webdriv&cb=jQuery110209098837380909712_1503067152729&_=1503067152738, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriv&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=7&pwd=webdri&cb=jQuery110209098837380909712_1503067152729&_=1503067152737, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdr&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=5&pwd=webd&cb=jQuery110209098837380909712_1503067152729&_=1503067152735, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdri&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=6&pwd=webdr&cb=jQuery110209098837380909712_1503067152729&_=1503067152736, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver&json=1&p=3&sid=1428_21114_17001_20718&req=2&csor=9&pwd=webdrive&cb=jQuery110209098837380909712_1503067152729&_=1503067152739, line 1: TypeError: jQuery110209098837380909712_1503067152729 is not a function
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1503067230018	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503067230023	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503067230025	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[NPAPI 2628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503067239835	Marionette	INFO	Listening on port 5529
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=1462_21124_17001&req=2&csor=3&pwd=un&cb=jQuery110207343705883723677_1503067244505&_=1503067244509, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1462_21124_17001&req=2&csor=4&pwd=uni&cb=jQuery110207343705883723677_1503067244505&_=1503067244510, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1462_21124_17001&req=2&csor=7&pwd=unitte&cb=jQuery110207343705883723677_1503067244505&_=1503067244513, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1462_21124_17001&req=2&csor=5&pwd=unit&cb=jQuery110207343705883723677_1503067244505&_=1503067244511, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1462_21124_17001&req=2&csor=6&pwd=unitt&cb=jQuery110207343705883723677_1503067244505&_=1503067244512, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1462_21124_17001&req=2&csor=8&pwd=unittes&cb=jQuery110207343705883723677_1503067244505&_=1503067244514, line 1: TypeError: jQuery110207343705883723677_1503067244505 is not a function
+[Child 7948] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 3348] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503067254865	Marionette	INFO	Listening on port 5603
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webd&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=4&pwd=web&cb=jQuery110205665228970739296_1503067260122&_=1503067260127, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=web&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=3&pwd=we&cb=jQuery110205665228970739296_1503067260122&_=1503067260126, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdrive&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=8&pwd=webdriv&cb=jQuery110205665228970739296_1503067260122&_=1503067260131, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdr&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=5&pwd=webd&cb=jQuery110205665228970739296_1503067260122&_=1503067260128, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdri&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=6&pwd=webdr&cb=jQuery110205665228970739296_1503067260122&_=1503067260129, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriv&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=7&pwd=webdri&cb=jQuery110205665228970739296_1503067260122&_=1503067260130, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver&json=1&p=3&sid=1425_21116_17001_20928&req=2&csor=9&pwd=webdrive&cb=jQuery110205665228970739296_1503067260122&_=1503067260132, line 1: TypeError: jQuery110205665228970739296_1503067260122 is not a function
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[NPAPI 7244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1432_21112_17001_22159&req=2&csor=4&pwd=uni&cb=jQuery110203966710752406051_1503067767904&_=1503067767909, line 1: TypeError: jQuery110203966710752406051_1503067767904 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1432_21112_17001_22159&req=2&csor=7&pwd=unitte&cb=jQuery110203966710752406051_1503067767904&_=1503067767912, line 1: TypeError: jQuery110203966710752406051_1503067767904 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1432_21112_17001_22159&req=2&csor=8&pwd=unittes&cb=jQuery110203966710752406051_1503067767904&_=1503067767913, line 1: TypeError: jQuery110203966710752406051_1503067767904 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1432_21112_17001_22159&req=2&csor=6&pwd=unitt&cb=jQuery110203966710752406051_1503067767904&_=1503067767911, line 1: TypeError: jQuery110203966710752406051_1503067767904 is not a function
+[Child 3708] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 8256] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1503067780118	Marionette	INFO	Listening on port 6123
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=we&json=1&p=3&sid=24141_1451_21094&req=2&csor=2&pwd=w&cb=jQuery110208031683762470913_1503067784203&_=1503067784206, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=web&json=1&p=3&sid=24141_1451_21094&req=2&csor=3&pwd=we&cb=jQuery110208031683762470913_1503067784203&_=1503067784207, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdr&json=1&p=3&sid=24141_1451_21094&req=2&csor=5&pwd=webd&cb=jQuery110208031683762470913_1503067784203&_=1503067784209, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webd&json=1&p=3&sid=24141_1451_21094&req=2&csor=4&pwd=web&cb=jQuery110208031683762470913_1503067784203&_=1503067784208, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriv&json=1&p=3&sid=24141_1451_21094&req=2&csor=7&pwd=webdri&cb=jQuery110208031683762470913_1503067784203&_=1503067784211, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdri&json=1&p=3&sid=24141_1451_21094&req=2&csor=6&pwd=webdr&cb=jQuery110208031683762470913_1503067784203&_=1503067784210, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdrive&json=1&p=3&sid=24141_1451_21094&req=2&csor=8&pwd=webdriv&cb=jQuery110208031683762470913_1503067784203&_=1503067784212, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver&json=1&p=3&sid=24141_1451_21094&req=2&csor=9&pwd=webdrive&cb=jQuery110208031683762470913_1503067784203&_=1503067784213, line 1: TypeError: jQuery110208031683762470913_1503067784203 is not a function
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[NPAPI 7428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
