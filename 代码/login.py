@@ -1,5 +1,5 @@
 from selenium import webdriver  
-
+import unittest
 import time
 
 url = 'http://www.maiziedu.com/'
@@ -8,14 +8,11 @@ pwd = 'li1548790965'
 
 def login_text():
 	d = webdriver.Firefox()
+	d.implicitly_wait(10)
 	d.get(url)
-	time.sleep(5)
 	d.maximize_window()
-	time.sleep(1)
 	d.find_element_by_link_text('登录').click()
-	time.sleep(1)
 	user1 = d.find_element_by_id('id_account_l')
-	time.sleep(1)
 	pwd1 = d.find_element_by_id('id_password_l')
 	user1.clear()
 	user1.send_keys(user)
@@ -31,4 +28,3 @@ def login_text():
 
 if __name__ == '__main__':
 	login_text()
-	time.sleep(2)

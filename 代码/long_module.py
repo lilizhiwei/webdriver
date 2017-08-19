@@ -35,9 +35,6 @@ def sendVals(eletuple,arg):
 		i += 1
 	eletuper[2].click()
 
-
-
-
 def login_text():
 	d = openBrower()
 	openUrl(d,url)
