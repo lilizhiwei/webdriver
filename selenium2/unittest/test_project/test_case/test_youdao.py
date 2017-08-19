@@ -6,7 +6,7 @@ class MyTest(unittest.TestCase):
 	'''有道搜索测试'''
 	
 	def setUp(self):
-		self.driver = webdriver.Firefox()
+		self.driver = webdriver.Chrome()
 		self.driver.maximize_window()
 		self.driver.implicitly_wait(10)
 		self.base_url = 'https://www.baidu.com'

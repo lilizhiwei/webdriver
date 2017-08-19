@@ -275,3 +275,22 @@ JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/sel
 ###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
 
 [NPAPI 7428] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w32-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503116042407	geckodriver	INFO	Listening on 127.0.0.1:55800
+1503116044419	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tbE8x8EEzCpU
+1503116044422	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1503116044563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55807
+1503116045627	Marionette	INFO	Listening on port 55807
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=3&pwd=un&cb=jQuery110205908876914407573_1503116050449&_=1503116050453, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=4&pwd=uni&cb=jQuery110205908876914407573_1503116050449&_=1503116050454, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=8&pwd=unittes&cb=jQuery110205908876914407573_1503116050449&_=1503116050458, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=5&pwd=unit&cb=jQuery110205908876914407573_1503116050449&_=1503116050455, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=6&pwd=unitt&cb=jQuery110205908876914407573_1503116050449&_=1503116050456, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1458_19037_21126_22075&req=2&csor=7&pwd=unitte&cb=jQuery110205908876914407573_1503116050449&_=1503116050457, line 1: TypeError: jQuery110205908876914407573_1503116050449 is not a function
+[Child 8736] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1503116057589	geckodriver	INFO	Listening on 127.0.0.1:55863
+1503116059581	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.vK1TUv4l6yoK
+1503116059583	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1503116059663	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55870
+1503116060466	Marionette	INFO	Listening on port 55870
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver&json=1&p=3&sid=1435_21082_18560_17001_20719&req=2&csor=9&pwd=webdrive&cb=jQuery110209534177906671486_1503116063141&_=1503116063151, line 1: TypeError: jQuery110209534177906671486_1503116063141 is not a function
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
