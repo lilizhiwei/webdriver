@@ -6587,3 +6587,29 @@ JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/sel
 1503135738615	Marionette	INFO	Listening on port 60105
 JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
 [Child 19856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503136150464	geckodriver	INFO	Listening on 127.0.0.1:60617
+1503136152464	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.9U7KllsOiVDq
+1503136152470	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1503136152508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60623
+1503136153479	Marionette	INFO	Listening on port 60623
+[Child 22016] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1503136272941	geckodriver	INFO	Listening on 127.0.0.1:60790
+1503136274946	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.olEOpswCMHiO
+1503136274953	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1503136274976	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60796
+1503136275988	Marionette	INFO	Listening on port 60796
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1503136476745	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503136476761	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503136476764	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+\firefox.exe
+1503136391040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60899
+1503136391857	Marionette	INFO	Listening on port 60899
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1503136477376	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503136477402	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503136477417	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+\firefox.exe
+1503136451724	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61017
+1503136453115	Marionette	INFO	Listening on port 61017
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
