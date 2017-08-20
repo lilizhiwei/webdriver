@@ -46,19 +46,15 @@ class login(object):
 		self.login_password(password)
 		self.login_button()
 		sleep(1)
-
-	user_error_hint_loc = (By.XPATH,"//span[@for='account']")
-	pawd_error_hint_loc = (By.XPATH,"//span[@for='password']")
-	user_login_success_loc = (By.ID,"mzCustName")
-
+		
 	#用户名错误提示
 	def user_error_hint(self):
-		return self.find_element(*self.user_error_hint_loc).text
+		return self.driver.find_element_by_css_selector("span.tip-font").text
 
 	#密码错误提示
 	def pawd_error_hint(self):
-		return self.find_element(*self.pawd_error_hint_loc).text
+		return self.driver.find_element_by_css_selector("span.tip-font").text
 
 	#登录成功提示
 	def user_login_success(self):
-		return self.find_element(*self.user_login_success_loc).text
+		return self.driver.find_element_by_css_selector("span.tip-font").text

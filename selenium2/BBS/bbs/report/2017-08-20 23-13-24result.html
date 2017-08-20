@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2017-08-20 18:43:38</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:00.093600</p>
-<p class='attribute'><strong>Status:</strong> Error 1</p>
+<p class='attribute'><strong>Start Time:</strong> 2017-08-20 23:13:24</p>
+<p class='attribute'><strong>Duration:</strong> 0:01:30.857000</p>
+<p class='attribute'><strong>Status:</strong> Pass 5</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -221,73 +221,46 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
-    <td>unittest.loader._FailedTest</td>
-    <td>1</td>
+<tr class='passClass'>
+    <td>login_sta.loginTest: 社区登录测试</td>
+    <td>5</td>
+    <td>5</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
-    <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c1',5)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>login_sta</div></td>
-    <td colspan='5' align='center'>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login1: 用户名、密码为空</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
 
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login2: 用户名正确、密码为空</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
 
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft1.1: ImportError: Failed to import test module: login_sta
-Traceback (most recent call last):
-  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\login_sta.py", line 5, in &lt;module&gt;
-    from page_obj.loginPage import login
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 5, in &lt;module&gt;
-    class login(object):
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 48, in login
-    user_error_hint_loc = (By.XPATH,"//span[@for='account']")
-NameError: name 'By' is not defined
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login3: 用户名为空、密码正确</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
 
-ImportError: Failed to import test module: login_sta
-Traceback (most recent call last):
-  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\login_sta.py", line 5, in &lt;module&gt;
-    from page_obj.loginPage import login
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 5, in &lt;module&gt;
-    class login(object):
-  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 48, in login
-    user_error_hint_loc = (By.XPATH,"//span[@for='account']")
-NameError: name 'By' is not defined
+<tr id='pt1.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login4: 用户名、密码不匹配</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
 
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login5: 用户名、密码都正确</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>1</td>
+    <td>5</td>
+    <td>5</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
     <td>&nbsp;</td>
 </tr>
 </table>

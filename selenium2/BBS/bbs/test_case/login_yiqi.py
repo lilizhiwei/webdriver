@@ -24,31 +24,26 @@ class loginTest(unittest.TestCase):
 		self.assertEqual(po.user_error_hint(),"请填写完整的登录信息")
 		self.assertEqual(po.pawd_error_hint(),"请填写完整的登录信息")
 
-	def test_login2(self):
 		'''用户名正确、密码为空'''
 		self.user_login_verify(username="pytest")
 		po = login(self.driver)
 		sleep(1)
 		self.assertEqual(po.pawd_error_hint(),"请填写完整的登录信息")
 
-	def test_login3(self):
 		'''用户名为空、密码正确'''
 		self.user_login_verify(password="abc123456")
 		po = login(self.driver)
 		sleep(1)
 		self.assertEqual(po.user_error_hint(),"请填写完整的登录信息")
 
-	def test_login4(self):
 		'''用户名、密码不匹配'''
 		self.user_login_verify(username="username",password="123456")
 		po = login(self.driver)
 		sleep(1)
 		self.assertEqual(po.pawd_error_hint(),"请点击按钮进行验证")
 
-	def test_login5(self):
 		'''用户名、密码都正确'''
 		self.user_login_verify(username="zhangsan",password="123456")
-		sleep(2)
 		po = login(self.driver)
 		sleep(1)
 		self.assertEqual(po.user_login_success(),'请点击按钮进行验证')
