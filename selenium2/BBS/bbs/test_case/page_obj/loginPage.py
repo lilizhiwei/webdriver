@@ -1,42 +1,46 @@
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
-from .base import Page
+from selenium import webdriver
 from time import sleep
+import unittest
 
-class login(Page):
+class login(object):
 	'''用户登录页面'''
 
+	bbs_url = 'https://bbs.meizu.cn'
 	url = '/'
 
-	#Action
-	bbs_login_user_loc = (By.XPATH,"//div[@id='mzCust']/div/img")	
-	bbs_login_button_loc = (By.ID,"mzLogin")
+	def __init__(self, selenium_driver,base_url=bbs_url):
+		self.base_url = base_url
+		self.driver = selenium_driver
+		self.timeout = 30
+
+	def open(self,url):
+		url = self.base_url + url
+		self.driver.get(url)
+
 
 	def bbs_login(self):
-		self.find_element(*self_bbs_login_user_loc).click()
+		self.driver.find_element_by_xpath("//div[@id='mzCust']/div/div/img").click()
 		sleep(1)
-		self.find_element(*self_bbs_login_button_loc).click()
-
-	login_username_loc = (By.ID,"account")
-	login_password_loc = (By.ID,"password")
-	login_button_loc = (By.ID,"login")
+		self.driver.find_element_by_id("mzLogin").click()
 
 	#填写用户名
 	def login_username(self,username):
-		self.find_element(*self.login_username_loc).send_keys(username)
+		self.driver.find_element_by_id("account").send_keys(username)
 
 	#填写密码
 	def login_password(self,password):
-		self.find_element(*self.login_password_loc).send_keys(password)
+		self.driver.find_element_by_id("password").send_keys(password)
 
 	#点击登录按钮
 	def login_button(self):
-		self.find_element(*self.login_button_loc).click()
+		self.driver.find_element_by_id("login").click()
 
 	#定义统一登录入口
-	def login_login(self,username="username",password="1111"):
+	def user_login(self,username="username",password="1111"):
 		'''获取的用户密码登录'''
-		self.open()
+		self.open(self.url)
 		self.bbs_login()
 		self.login_username(username)
 		self.login_password(password)

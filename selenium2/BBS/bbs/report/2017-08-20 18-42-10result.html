@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2017-08-19 17:45:03</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:22.123355</p>
-<p class='attribute'><strong>Status:</strong> Pass 2</p>
+<p class='attribute'><strong>Start Time:</strong> 2017-08-20 18:42:10</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:00.109200</p>
+<p class='attribute'><strong>Status:</strong> Error 1</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -221,40 +221,73 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='passClass'>
-    <td>test_baidu.MyTest: 百度搜索测试</td>
-    <td>1</td>
+<tr class='errorClass'>
+    <td>unittest.loader._FailedTest</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
+    <td>1</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_baidu</div></td>
-    <td colspan='5' align='center'>pass</td>
-</tr>
+<tr id='ft1.1' class='none'>
+    <td class='errorCase'><div class='testcase'>login_sta</div></td>
+    <td colspan='5' align='center'>
 
-<tr class='passClass'>
-    <td>test_youdao.MyTest: 有道搜索测试</td>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
-</tr>
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+        error</a>
 
-<tr id='pt2.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_baidu</div></td>
-    <td colspan='5' align='center'>pass</td>
+    <div id='div_ft1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft1.1: ImportError: Failed to import test module: login_sta
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 428, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 369, in _get_module_from_name
+    __import__(name)
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\login_sta.py", line 5, in &lt;module&gt;
+    from page_obj.loginPage import login
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 6, in &lt;module&gt;
+    class login(object):
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 49, in login
+    user_error_hint_loc = (By.XPATH,"//span[@for='account']")
+NameError: name 'By' is not defined
+
+ImportError: Failed to import test module: login_sta
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 428, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\lib\unittest\loader.py", line 369, in _get_module_from_name
+    __import__(name)
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\login_sta.py", line 5, in &lt;module&gt;
+    from page_obj.loginPage import login
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 6, in &lt;module&gt;
+    class login(object):
+  File "C:\Users\Administrator\webdriver\selenium2\BBS\bbs\test_case\page_obj\loginPage.py", line 49, in login
+    user_error_hint_loc = (By.XPATH,"//span[@for='account']")
+NameError: name 'By' is not defined
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
 </tr>
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>2</td>
-    <td>2</td>
+    <td>1</td>
     <td>0</td>
     <td>0</td>
+    <td>1</td>
     <td>&nbsp;</td>
 </tr>
 </table>
