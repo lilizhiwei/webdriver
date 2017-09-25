@@ -2,6 +2,15 @@
 
 #输出
 
+self.assertRegexpMatches(self.driver.find_element_by_xpath("/html").text, r"[\s\S]*李志伟[\s\S]*") 
+同IDE的verifyTextPresent  *李志伟*
+
+self.assertNotRegexpMatches(self.driver.find_element_by_xpath("/html").text, r"[\s\S]*李志伟[\s\S]*") 
+同IDE的verifyTextNotPresent  *李志伟*
+
+WebDriverWait(self.driver,30,0.5).until(EC.text_to_be_present_in_element((By.XPATH,'/html'),"购物车空空如也"))
+同IDE的waitForTextPresent  *购物车空空如也*
+
 name = "zhangsan"
 print("hello %s!" %name)
 

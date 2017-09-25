@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
 import unittest,sys
-sys.path.append("./page_obj")
+sys.path.append("../../page_obj")
 from page_obj.loginPage import login
 
 class loginTest(unittest.TestCase):
